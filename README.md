@@ -1,4 +1,5 @@
 # Hadoop_Test_By_Idea
+***依靠IDEA编辑器***
 这是一个显示/input文件夹下文件的程序
 Hadoop开发环境测试
 在创建项目的时候选择Maven项目
