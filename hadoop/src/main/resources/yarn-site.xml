@@ -1,0 +1,6 @@
+<configuration>
+	<property>
+		<name>yarn.nodemanger.aux-services</name>
+		<value>mapreduce_shuffle</value>
+	</property>
+</configuration>
